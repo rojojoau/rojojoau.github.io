@@ -1,0 +1,50 @@
+.blog-heading {
+  font-size: 1.3em;
+  color: #104FA2;
+  margin-top: 0;
+}
+
+.blog a, .post a {
+  color: #104FA2;
+  text-decoration: none;
+}
+
+.blog a:hover, .post a:hover {
+  color: #011C40;
+}
+
+.post-list {
+  list-style: none;
+}
+
+.post-item {
+  margin-bottom: 10px;
+}
+
+.post-meta {
+  color: #898989;
+}
+
+.post {
+  max-width: 600px;
+}
+
+.post .post-meta {
+  margin-top: 0;
+}
+
+.post .post-title {
+  margin-bottom: 0;
+}
+
+.post .highlight {
+  font-size: 0.85em;
+  padding: 10px;
+  box-shadow: 1px 1px 1px #9a9a9a;
+}
+
+.post .highlighter-rouge {
+  font-size: 0.85em;
+  background: #eef;
+  padding: 2px 5px;
+}

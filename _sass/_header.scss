@@ -1,0 +1,40 @@
+.site-header {
+  background: #1a1a1a;
+  overflow: hidden;
+}
+
+.header-brand {
+  margin-left: 15px;
+  margin-top: 5px;
+  font-size: 1.5em;
+  color: #E20808;
+  vertical-align: bottom;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.header-links {
+  list-style: none;
+  text-align: right;
+  display: inline-block;
+  float: right;
+  margin: 0;
+}
+
+.header-links li {
+  display: inline-block;
+}
+
+.header-links li a {
+  padding: 15px;
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-size: .8em;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.header-links li a:hover {
+  background: #5a5a5a;
+}

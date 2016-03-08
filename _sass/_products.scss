@@ -1,0 +1,39 @@
+.products-info, .products-software {
+  width: 50%;
+  float: left;
+  padding: 25px;
+}
+
+.products-info ul, .products-software ul {
+  margin: 0;
+  padding: 0;
+}
+
+.product {
+  list-style: none;
+  height: 280px;
+  border: 1px solid #eaeaea;
+  background: #f9f9f9;
+  padding: 15px;
+  box-shadow: 2px 8px 10px #d1d2d1; 
+}
+
+.product-title {
+  margin-bottom: 0;
+}
+
+.product-url {
+  color: #898989;
+  text-decoration: none;
+}
+
+.product-url:hover {
+  text-decoration: underline;
+}
+
+.product-image {
+  max-width: 50%;
+  float: right;
+  border: 1px solid #9a9a9a;
+  box-shadow: 1px 2px 2px #7f7f7f;
+}
