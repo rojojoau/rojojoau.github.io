@@ -55,3 +55,16 @@
     max-width: 50%;
   }
 }
+
+@media (max-width: 495px) {
+  .product {
+    height: 310px;
+  }
+}
+
+
+@media (max-width: 330px) {
+  .product {
+    height: 335px;
+  }
+}
