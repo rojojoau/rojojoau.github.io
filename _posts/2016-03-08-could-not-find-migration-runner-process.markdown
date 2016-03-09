@@ -2,6 +2,7 @@
 layout: post
 title:  "Elixir Ecto - could not find migration runner process"
 date:   2016-03-08 22:33:35 +1100
+gaid: "ecto-migration"
 ---
 
 Over the last few weeks I've had an issue with a project using [the Phoenix

@@ -38,3 +38,21 @@
 .header-links li a:hover {
   background: #5a5a5a;
 }
+
+
+@media (max-width: 370px) {
+  .header-brand {
+    margin: 10px 0;
+    display: block;
+    text-align: center;
+  }
+
+  .header-links {
+    list-style: none;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    float: none;
+    padding: 0;
+  }
+}
